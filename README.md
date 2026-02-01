@@ -31,7 +31,7 @@
 `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Redis` · `Celery` · `RabbitMQ` · `Docker` · `Linux` · `Nginx` · `GitHab CI/CD` · `JWT`
 
 ### Избранные репозитории
-- ⭐ [todo](https://github.com/VladislavPashistov/pathToTODO) — полноценный backend: API, авторизация, бизнес-логика, валидация и PostgreSQL (FastAPI, JWT, SQLAlchemy)
+- ⭐ [todo](https://github.com/VladislavPashistov/fastapi-task-manager) — полноценный backend: API, авторизация, бизнес-логика, валидация и PostgreSQL (FastAPI, JWT, SQLAlchemy)
 
 <!-- Snake (если файл лежит в assets/) -->
 
