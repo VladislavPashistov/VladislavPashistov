@@ -8,7 +8,7 @@
 <p align="center"><b>Python backend</b> · FastAPI · PostgreSQL · Async · Docker</p>
 
 <p align="center">
-  <a href="mailto:hh61803222@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
+  <a href="mailto:mess618032@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
   <a href="https://t.me/nicki2001F"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Moscow-000">
 </p>
